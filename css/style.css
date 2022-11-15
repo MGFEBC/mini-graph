@@ -184,3 +184,46 @@ DESKTOP SIZE
     width: 38vw;
   }
 }
+
+/* Contents */
+.brown-bg {
+  background: #f8f6f2;
+}
+.content {
+  padding: 4rem 1rem;
+}
+.home-text {
+  margin-bottom: 2rem;
+}
+.home-chart {
+  margin-left: 2vw;
+}
+.flex-reverse .home-chart {
+  margin: 0 2vw 0 0;
+}
+.home-chart img {
+  width: 100%;
+}
+.home-chart p {
+  text-align: center;
+}
+
+/* 그래프 글씨 */
+.ct-label {
+  font-size: 1rem;
+  fill: #fff;
+}
+
+/* 원 그래프 */
+.ct-series-a .ct-slice-pie {
+  fill: #2d3374;
+}
+.ct-series-b .ct-slice-pie {
+  fill: #3a7edf;
+}
+.ct-series-c .ct-slice-pie {
+  fill: #9bcbf8;
+}
+.ct-series-d .ct-slice-pie {
+  fill: #bbb;
+}
