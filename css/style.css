@@ -227,3 +227,11 @@ DESKTOP SIZE
 .ct-series-d .ct-slice-pie {
   fill: #bbb;
 }
+
+/* 막대 그래프 */
+.ct-series-a .ct-bar {
+  stroke: #3a7edf;
+}
+.ct-bar {
+  stroke-width: 15%;
+}
