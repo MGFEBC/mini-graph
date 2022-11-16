@@ -12,7 +12,6 @@ var pieOptions = {
 };
 
 new Chartist.Pie(".pie-chart", pieData, pieOptions);
-
 /*
 BAR CHART
 ================================================ */
